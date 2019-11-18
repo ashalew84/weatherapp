@@ -1,0 +1,17 @@
+@media screen and (max-width: 992px) {   
+
+h2 { color: red;  }
+
+}
+
+
+@media screen and (max-width: 768px) {   
+
+h2 {color: blue; }
+
+}
+@media screen and (max-width: 576px) {   
+
+h2 {  color: orange;}
+
+}
