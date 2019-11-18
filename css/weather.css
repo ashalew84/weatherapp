@@ -2,7 +2,7 @@ html,
 body{
   padding: 0;
       margin: 0px;
-    background-color: rgba(74, 74, 74, 0.17);
+    
     
     
 }
@@ -30,6 +30,7 @@ body{
     
     font-family: Helvetica,sans-serif;
     padding: 5px 5%;
+    background-image: url('images/63.0.jpg');
    
     
 }
