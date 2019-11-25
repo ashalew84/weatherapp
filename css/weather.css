@@ -2,6 +2,8 @@ html,
 body{
   padding: 0;
       margin: 0px;
+    font-family: Helvetica,sans-serif;
+    padding: 5px 5%;
     
     
     
@@ -20,20 +22,13 @@ header{
     
     background-color: #4e4e4e;
    padding-top: 10px;
-    color: antiquewhite
+    color: antiquewhite;
   
     
     
     
 }
-body{
-    
-    font-family: Helvetica,sans-serif;
-    padding: 5px 5%;
-    background-image: url('images/63.0.jpg');
-   
-    
-}
+
 #city{
   font-family: Helvetica,sans-serif;  
    color: antiquewhite; 
